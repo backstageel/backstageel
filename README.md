@@ -7,6 +7,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: PHP, MySQL, AWS, Laravel
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=backstageel&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=backstageel)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on this page. 
 
