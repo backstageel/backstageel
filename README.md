@@ -13,6 +13,8 @@ Skills: PHP, MySQL, AWS, Laravel
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=backstageel)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/backstageel/backstageel/blob/main/images/stat.svg" alt="Backstageel WakaTime Activity"/>
+
 - 🔭 I’m currently availabe for freelance projects
 
 
